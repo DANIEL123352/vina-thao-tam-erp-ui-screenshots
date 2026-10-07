@@ -67,3 +67,8 @@ Shell Factory OS · portal tabs · ⌘K · drawer · toast · status footer · b
 - Desktop dày → companion /m  
 
 Ảnh: https://github.com/DANIEL123352/vina-thao-tam-erp-ui-screenshots
+
+
+## 9. Kê khai nút UX
+
+Xem file riêng: [UX-NUT-CTA-CATALOG.md](./UX-NUT-CTA-CATALOG.md)
