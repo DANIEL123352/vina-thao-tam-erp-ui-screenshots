@@ -72,3 +72,8 @@ Shell Factory OS · portal tabs · ⌘K · drawer · toast · status footer · b
 ## 9. Kê khai nút UX
 
 Xem file riêng: [UX-NUT-CTA-CATALOG.md](./UX-NUT-CTA-CATALOG.md)
+
+
+## 10. Catalog nút theo MODULE
+
+[UX-MODULE-BUTTONS.md](./UX-MODULE-BUTTONS.md) — toàn bộ CTA từng phân hệ.
