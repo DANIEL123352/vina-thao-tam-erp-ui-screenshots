@@ -35,9 +35,6 @@ Nhãn UI → công dụng. Kind: primary | secondary | icon | nav | tab | kpi | 
 | header | Trợ giúp | icon | Toast hướng dẫn IT |
 | header | Đăng xuất | secondary | Logout |
 | footer | Làm mới | secondary | Refresh data |
-| � |
-| header | Đăng xuất | secondary | Logout |
-| footer | Làm mới | secondary | Refresh data |
 | ⌘K | Mở đơn trễ hạn / Xem cảnh báo QC | quick | Jump có filter |
 | mobile nav | Tổng quan · Hồ sơ ĐH · Công đoạn QR · Kho · MRP · Hóa đơn | tab | Bottom nav ERP |
 | chấm công | Clock in / break / Clock out | primary | Attendance KT/TK |
@@ -96,4 +93,4 @@ Nhãn UI → công dụng. Kind: primary | secondary | icon | nav | tab | kpi | 
 
 Lưu/Cập nhật · Tạo mới · Xóa · Xuất PDF/CSV/JSON · Import · Sync · Duyệt phiếu kho · Phát hành tem QR · Gửi Gmail HĐ · Đánh dấu tin hiện trường.
 
-Chi tiết đầy đủ + ảnh: canvas Cursor + https://github.com/DANIEL123352/vina-thao-tam-erp-ui-screenshots
+Chi tiết đầy đủ trong Cursor canvas UX + ảnh: https://github.com/DANIEL123352/vina-thao-tam-erp-ui-screenshots
