@@ -1,3 +1,5 @@
+# → Mục lục tổng: [UX-MASTER-INDEX.md](./UX-MASTER-INDEX.md)
+
 # UX toàn hệ thống — VINA Thảo Tâm Factory OS / Rubberwood ERP
 
 Tài liệu tổng hợp UX từ code (LoginScreen, RubberwoodDashboard, /m, worker, field chat, trace).  
